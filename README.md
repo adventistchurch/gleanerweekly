@@ -1,5 +1,3 @@
-# README #
-
 # GleanerWeekly.com #
 
 A Jekyll built emailing acquisition landing page built off of responsive Bootstrap 3.0.
